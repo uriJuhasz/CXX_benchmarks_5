@@ -1,0 +1,1 @@
+/usr/bin/clang++    -Wpedantic -Wall -Wextra -std=c++17 -O3 -DNDEBUG   CMakeFiles/CXX_benchmarks_5.dir/main.cpp.o CMakeFiles/CXX_benchmarks_5.dir/benchmarks/Benchmark1.cpp.o CMakeFiles/CXX_benchmarks_5.dir/benchmarks/Benchmark2.cpp.o CMakeFiles/CXX_benchmarks_5.dir/benchmarks/TimeMeasurement.cpp.o  -o CXX_benchmarks_5 -rdynamic 

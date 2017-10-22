@@ -18,8 +18,14 @@ int main(int argc, const char *argv[])
     cout << " Benchmark 1:" << endl;
     benchmarks::test1();
 
-    cout << " Benchmark 2:" << endl;
-    benchmarks::test2();
+    try
+    {
+      cout << " Benchmark 2:" << endl;
+      benchmarks::test2();
+    }catch(const exception& e)
+    {
+      cerr << "Error: " << e.what() << endl;
+    }
 
     cout << "===End" << endl;
     return 0;

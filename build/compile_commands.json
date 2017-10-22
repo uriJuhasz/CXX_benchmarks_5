@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/uri/projects/CXX_benchmarks_5/CXX_benchmarks_5/build",
+  "command": "/usr/bin/clang++      -Wpedantic -Wall -Wextra -std=c++17 -O3 -DNDEBUG   -o CMakeFiles/CXX_benchmarks_5.dir/main.cpp.o -c /home/uri/projects/CXX_benchmarks_5/CXX_benchmarks_5/main.cpp",
+  "file": "/home/uri/projects/CXX_benchmarks_5/CXX_benchmarks_5/main.cpp"
+},
+{
+  "directory": "/home/uri/projects/CXX_benchmarks_5/CXX_benchmarks_5/build",
+  "command": "/usr/bin/clang++      -Wpedantic -Wall -Wextra -std=c++17 -O3 -DNDEBUG   -o CMakeFiles/CXX_benchmarks_5.dir/benchmarks/Benchmark1.cpp.o -c /home/uri/projects/CXX_benchmarks_5/CXX_benchmarks_5/benchmarks/Benchmark1.cpp",
+  "file": "/home/uri/projects/CXX_benchmarks_5/CXX_benchmarks_5/benchmarks/Benchmark1.cpp"
+},
+{
+  "directory": "/home/uri/projects/CXX_benchmarks_5/CXX_benchmarks_5/build",
+  "command": "/usr/bin/clang++      -Wpedantic -Wall -Wextra -std=c++17 -O3 -DNDEBUG   -o CMakeFiles/CXX_benchmarks_5.dir/benchmarks/Benchmark2.cpp.o -c /home/uri/projects/CXX_benchmarks_5/CXX_benchmarks_5/benchmarks/Benchmark2.cpp",
+  "file": "/home/uri/projects/CXX_benchmarks_5/CXX_benchmarks_5/benchmarks/Benchmark2.cpp"
+},
+{
+  "directory": "/home/uri/projects/CXX_benchmarks_5/CXX_benchmarks_5/build",
+  "command": "/usr/bin/clang++      -Wpedantic -Wall -Wextra -std=c++17 -O3 -DNDEBUG   -o CMakeFiles/CXX_benchmarks_5.dir/benchmarks/TimeMeasurement.cpp.o -c /home/uri/projects/CXX_benchmarks_5/CXX_benchmarks_5/benchmarks/TimeMeasurement.cpp",
+  "file": "/home/uri/projects/CXX_benchmarks_5/CXX_benchmarks_5/benchmarks/TimeMeasurement.cpp"
+}
+]
