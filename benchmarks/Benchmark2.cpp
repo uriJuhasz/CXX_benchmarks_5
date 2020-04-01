@@ -5,7 +5,7 @@
 #include <vector>
 #include <map>
 #include <unordered_map>
-#include <experimental/optional>
+#include <optional>
 #include <cassert>
 
 #include <iostream>
@@ -14,8 +14,8 @@
 namespace benchmarks
 {
     using namespace std;
-    using namespace std::experimental;
-    using std::experimental::optional;
+//    using namespace std::experimental;
+    using std::optional;
     
     constexpr int numElements = 100000;
     constexpr int numReads    = 400000;
